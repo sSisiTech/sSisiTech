@@ -43,6 +43,32 @@
 <hr/>
 
 <div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sSisiTech/sSisiTech/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <a href="https://git.io/streak-stats"><img height=165 src="https://streak-stats.demolab.com?user=sSisiTech&theme=react&border_radius=10&card_width=495" alt="GitHub Streak" /></a>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=sSisiTech&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sSisiTech&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
 <a href="https://www.buymeacoffee.com/sisidev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/></a>
 </div>
 
